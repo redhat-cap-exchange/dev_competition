@@ -1,11 +1,11 @@
 ---
 name: Project proposal
-about: Use this template to describe your project
+about: Use this template to propose your project idea
 
 ---
 
 ### Short description
-=> describe your project in 1 or 2 sentences.
+=> Describe your project in 1 or 2 sentences.
 
 ### Description
-=> long and detailed description of the project.
+=> Long and detailed description of the project.
