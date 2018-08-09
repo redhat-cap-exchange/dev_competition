@@ -47,12 +47,20 @@ We use labels to indicate the state of a project proposal. The following labels 
 * `duplicate` - A similar project proposal already exists
 * `comment wanted` - Please comment on this project proposal
 * `help wanted` - Additional team members are needed
+* `ready` - The project proposal is ready to be reviewed
 
 ## Form a team
 
-Describe how the team should form etc ...
+There is no formal process how to recruit team members. Reach out to collegues or ask for help in the Slack channel. Once you have your team assembled, update the `Team` section of your project proposal page with the GitHub use names of your team members.
 
 ## Register the team and project
 
-Describe how issues & labels will be used to define the teams and projects.
+If the project proposal is ready for a review, add the `ready` label to it. We will then review the proposal and ask for additional 
+information and clarification if needed. Once everything is fine, we will add the 'accepted` label and create a dedicated project description page. The issue will then be closed.
+
+### Changes to the project description after it has been accepted
+
+1. Fork the repository
+2. Make changes to the project description page
+3. Submit a pull request
 
