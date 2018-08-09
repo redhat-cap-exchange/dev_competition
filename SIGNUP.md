@@ -1,6 +1,8 @@
 # How do I sign-up?
 
-The sign-up process involves four steps:
+In order to participate, you have to sign-up to our Slack workspace first and also get an account on GitHub, in case you do not have one already.
+
+The sign-up process involves these steps:
 
 1. Join Slack
 2. Create a project proposal

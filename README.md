@@ -28,11 +28,11 @@ The [ideas page](https://github.com/redhatgsiexchange/dev_competition/blob/maste
 
 ## How do I sign-up?
 
-In order to participate, you have to sign-up to our Slack workspace first and also get an account on GitHub, in case you do not have one already. The [sign-up guide](https://github.com/redhatgsiexchange/dev_competition/blob/master/SIGNUP.md) explains the registration process and how to propose a project.
+The [sign-up guide](https://github.com/redhatgsiexchange/dev_competition/blob/master/SIGNUP.md) explains the registration process and how to propose a project.
 
 ## Where do I get additional information?
 
-See this place and Slack
+This place and Slack basically...
 
 ## Contributing
 
