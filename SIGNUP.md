@@ -1,4 +1,4 @@
-# The Sign-up process
+# Sign-up guide
 
 In order to participate, you have to sign-up to our Slack workspace first and also get an account on GitHub, in case you do not have one already.
 
