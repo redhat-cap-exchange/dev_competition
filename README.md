@@ -16,9 +16,9 @@ Build business- or technical solutions that leverage the Red Hat OpenShift Conta
 * Allow developers to be involved in state of the art technologies
 * Build awareness for the Red Hat portfolio across Capgemini
 
-The [ideas page](https://github.com/redhatgsiexchange/dev_competition/blob/master/IDEAS.md) gives you an overview of suggest topics to work on.
+The [ideas page](https://github.com/redhatgsiexchange/dev_competition/blob/master/IDEAS.md) gives you an overview of suggest topics you could work on.
 
-#### How does it work?
+### How does it work?
 
 1. Form a team of two to five like-minded colleagues to develop the solution.
 

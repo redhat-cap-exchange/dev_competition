@@ -1,6 +1,11 @@
 # How can I sign-up?
 
-In order to participate, you have to sign-up to our Slack workspace and get an account on GitHub (in case you do not have one already).
+The sign-up process involves four steps:
+
+1. Join Slack
+2. Create a project proposal
+3. Form a team
+4. Register the team and project
 
 ### Join the Slack workspace
 
@@ -22,9 +27,11 @@ TOP2
 2. Share the the issue with collegues and ask them to comment or join your team.
 3. bla bla bla
 
-<TBD> Describe how the team should form etc ...
+### Form a team
 
-### Register the project
+Describe how the team should form etc ...
 
-<TBD> Describe how issues & labels will be used to define the teams and projects.
+### Register the team and project
+
+Describe how issues & labels will be used to define the teams and projects.
 
