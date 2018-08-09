@@ -20,20 +20,24 @@ Build business- or technical solutions that leverage the Red Hat OpenShift Conta
 
 ## How will it work?
 
-1. Form a team of two to three like-minded colleagues to develop the solution.
+1. Form a team of two to five like-minded colleagues to develop the solution.
 
 2. Define the project. The team should collaborate on a topic that everyone is passionate about. The scope of the project should be defined early on with a focus on the 'WHY?'. Why is this project important to work on? How does it help your customers?
 
-3. Collaborate and work in THE OPEN SOURCE WAY. Ideally the project can be completed in a couple of days. Collaboration can happen in person or remotely, the open source way.
+3. Collaborate and work in [THE OPEN SOURCE WAY](https://opensource.com/open-source-way). Ideally the project can be completed in a couple of days. Collaboration can happen in person or remotely, the open source way.
+
+## How can I sign-up?
+
+TBD
 
 ## What are we looking for?
-Here is a collection of ideas to be worked during the developer competition …
+Here is a collection of ideas to be worked on during the developer competition …
 
 **Business Solutions and Go-to-Market Offerings**
 Collaborate on prototyping a vertical business solution, e.g. related to PSD/2. Or, develop a go-to-market program with the goal to containerize a customer’s application landscape and streamline their application lifecycle.
 
 **Solutions that support a community or a social cause**
-Think of solutions that support Civic Technology, Open Data, Data Journalism or Open Government Initiatives. Or bring existing open source solutions in this space into the container world.
+Think of solutions that support Civic Technology, Open Data, Data Journalism or Open Government Initiatives. Or bring existing open source solutions in this space into the world of containers.
 
 **New Workloads**
 Use the OpenShift Container Platform to run innovative workloads like predictive analytics or machine learning. Or the good old batch processing, number crunching jobs.
