@@ -2,16 +2,19 @@
 
 In order to participate, you have to sign-up to our Slack workspace first and also get an account on GitHub, in case you do not have one already.
 
-The sign-up process involves these steps:
+#### TL;DR
 
-1. Join Slack
-2. Create a project proposal
+1. [Join Slack](https://redhat-capgemini.slack.com/signup)
+2. Create a [project proposal](https://github.com/redhatgsiexchange/dev_competition/issues/new?template=project-proposal.md)
 3. Form a team
 4. Register the project
 
 ## Join the Slack workspace
 
 1. Join the Slack Workspace: [https://redhat-capgemini.slack.com/signup](https://redhat-capgemini.slack.com/signup)
+
+and
+
 2. Join the `#10_dev_competition` channel.
 
 Our shared Capgemini & Red Hat Slack workspace is used to communicate all important updates related to the developer competition. 
