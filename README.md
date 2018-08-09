@@ -16,7 +16,9 @@ Build business- or technical solutions that leverage the Red Hat OpenShift Conta
 * Allow developers to be involved in state of the art technologies
 * Build awareness for the Red Hat portfolio across Capgemini
 
-## How will it work?
+The [ideas page](https://github.com/redhatgsiexchange/dev_competition/blob/master/IDEAS.md) gives you an overview of suggest topics to work on.
+
+#### How does it work?
 
 1. Form a team of two to five like-minded colleagues to develop the solution.
 
@@ -26,7 +28,7 @@ Build business- or technical solutions that leverage the Red Hat OpenShift Conta
 
 ## How can I sign-up?
 
-In order to participate, you have to sign-up to our Slack workspace first and get an account on GitHub (in case you do not have one already). The [sign-up guide](https://github.com/redhatgsiexchange/dev_competition/blob/master/SIGNUP.md) explains how to register and how to propose a project.
+In order to participate, you have to sign-up to our Slack workspace first and also get an account on GitHub, in case you do not have one already. The [sign-up guide](https://github.com/redhatgsiexchange/dev_competition/blob/master/SIGNUP.md) explains the registration process and how to propose a project.
 
 ## Where do I get additional information?
 
