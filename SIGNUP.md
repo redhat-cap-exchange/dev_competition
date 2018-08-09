@@ -24,6 +24,9 @@ You MUST use your work email address to sign-up. Only addresses ending in `@capg
 
 ## Create a project proposal
 
+We use [GitHub Issues](https://github.com/redhatgsiexchange/dev_competition/issues) to register project proposals and to collaborate on the refinement of the project specification. The issue MUST explain what your project is about, why it is relevant 
+for customers, what technology will be used, etc. Other participants can then comment or offer their help.
+
 To start, create a [new issue](https://github.com/redhatgsiexchange/dev_competition/issues/new?template=project-proposal.md) for your project and provide the following information:
 
 ```
@@ -34,12 +37,16 @@ To start, create a [new issue](https://github.com/redhatgsiexchange/dev_competit
 => Long and detailed description of the project.
 ```
 
-We use [GitHub Issues](https://github.com/redhatgsiexchange/dev_competition/issues) to register project proposals and to collaborate on the refinement of the project specification. The issue MUST explain what your project is about, why it is relevant 
-for customers, what technology will be used, etc. Other participants can then comment or offer their help.
+### Labels
 
-#### Issue Labels
+We use labels to indicate the state of a project proposal. The following labels are available:
 
-Explain labels ...
+* `accepted` - This project proposal has been accepted
+* `declined` - This project proposal has been declined
+* `clarification` - The project proposal needs clarification
+* `duplicate` - A similar project proposal already exists
+* `comment wanted` - Please comment on this project proposal
+* `help wanted` - Additional team members are needed
 
 ## Form a team
 
