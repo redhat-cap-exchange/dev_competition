@@ -28,7 +28,13 @@ Build business- or technical solutions that leverage the Red Hat OpenShift Conta
 
 ## How can I sign-up?
 
-TBD
+In order to participate, you have to sign-up to our Slack workspace and get an account on GitHub if you do not have one yet.
+
+1. Sign-up to the Slack Workspace:
+[https://redhat-capgemini.slack.com/signup](https://redhat-capgemini.slack.com/signup)
+
+2. Join the `#04_open_source` channel.
+
 
 ## What are we looking for?
 Here is a collection of ideas to be worked on during the developer competition …
