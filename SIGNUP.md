@@ -11,18 +11,16 @@ In order to participate, you have to sign-up to our Slack workspace first and al
 
 ## Join the Slack workspace
 
+Our shared Capgemini & Red Hat Slack workspace is used to communicate all important updates related to the developer competition.
+
 1. Join the Slack Workspace: [https://redhat-capgemini.slack.com/signup](https://redhat-capgemini.slack.com/signup)
-
-and
-
 2. Join the `#10_dev_competition` channel.
 
-Our shared Capgemini & Red Hat Slack workspace is used to communicate all important updates related to the developer competition. 
-We also encourage everyone to use it to:
+We encourage everyone to use Slack
 
-* Ask questions related to the developer competition
-* Collaborate with your team
-* Get updates on Red Hat products and technologies
+* for questions related to the developer competition
+* to collaborate with the team
+* for updates on Red Hat products and technologies
 
 #### Note:
 You MUST use your work email address to sign-up. Only addresses ending in `@capgemini.com` or `@sogeti.com` are accepted.
@@ -30,7 +28,9 @@ You MUST use your work email address to sign-up. Only addresses ending in `@capg
 ## Create a project proposal
 
 We use [GitHub Issues](https://github.com/redhatgsiexchange/dev_competition/issues) to register project proposals and to collaborate on the refinement of the project description. The issue MUST explain what your project is about, why it is relevant 
-for customers, what technology will be used, etc. Other participants can then comment or offer their help.
+for customers, what technology will be used, etc. 
+
+Other participants can then comment or offer their help.
 
 To start, create a [new issue](https://github.com/redhatgsiexchange/dev_competition/issues/new?template=project-proposal.md) for your project and provide the following information:
 
@@ -58,7 +58,7 @@ We use labels to indicate the state of a project proposal. The following labels 
 
 There is no formal process how to recruit team members. 
 
-Reach out to collegues or ask for help in the Slack channel. Once you have your team assembled, update the `Team` section of your project proposal page with the GitHub user-names of your team members.
+Reach out to collegues or ask for help on Slack. Once you have your team assembled, update the `Team` section of your project proposal "issue" with the GitHub user-names of your team members.
 
 ## Register the project and its team
 
@@ -66,7 +66,7 @@ If the project proposal is ready for a review, add the `ready` label to it.
 
 We review the proposal and ask for additional information if needed. Once everything is fine, we will add the `accepted` label, create a dedicated project description page and close the issue.
 
-##### Changes to the project description after it has been accepted
+#### Changes to the project description after it has been accepted
 
 1. Fork the repository
 2. Make changes to the project description page
