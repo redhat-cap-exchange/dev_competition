@@ -1,4 +1,4 @@
-# How do I sign-up?
+# The Sign-up process
 
 In order to participate, you have to sign-up to our Slack workspace first and also get an account on GitHub, in case you do not have one already.
 
@@ -70,7 +70,7 @@ Once everything is fine, we will
 * create a dedicated project description page
 * close the issue.
 
-### Changes to the project description after it has been accepted
+## Changes to the project description after it has been accepted
 
 1. Fork the repository
 2. Make changes to YOUR project description page
