@@ -16,6 +16,14 @@ Build business- or technical solutions that leverage the Red Hat OpenShift Conta
 * Allow developers to be involved in state of the art technologies
 * Build awareness for the Red Hat portfolio across Capgemini
 
+## How will it work?
+
+1. Form a team of two to five like-minded colleagues to develop the solution.
+
+2. Define the project. The team should collaborate on a topic that everyone is passionate about. The scope of the project should be defined early on with a focus on the 'WHY?'. Why is this project important to work on? How does it help your customers?
+
+3. Collaborate and work in [THE OPEN SOURCE WAY](https://opensource.com/open-source-way). Ideally the project can be completed in a couple of days. Collaboration can happen in person or remotely, the open source way.
+
 ## How can I sign-up?
 
 In order to participate, you have to sign-up to our Slack workspace first and get an account on GitHub (in case you do not have one already). The [sign-up guide](https://github.com/redhatgsiexchange/dev_competition/blob/master/SIGNUP.md) explains how to register and how to propose a project.
@@ -24,6 +32,6 @@ In order to participate, you have to sign-up to our Slack workspace first and ge
 
 See this place and Slack
 
-Contributing
+## Contributing
 
 If you're submitting a pull request or doing a documentation review, please take a look at our [contributing guide](https://github.com/redhatgsiexchange/dev_competition/blob/master/CONTRIBUTING.md).
