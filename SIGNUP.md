@@ -62,9 +62,13 @@ Reach out to collegues or ask for help on Slack. Once you have your team assembl
 
 ## Register the project and its team
 
-If the project proposal is ready for a review, add the `ready` label to it. 
+If the project proposal is ready for a review, add the `ready` label to it. We then review the proposal and ask for additional information if needed. 
 
-We review the proposal and ask for additional information if needed. Once everything is fine, we will add the `accepted` label, create a dedicated project description page and close the issue.
+Once everything is fine, we will
+
+* add the `accepted` label
+* create a dedicated project description page
+* close the issue.
 
 ### Changes to the project description after it has been accepted
 
