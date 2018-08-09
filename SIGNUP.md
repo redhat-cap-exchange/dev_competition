@@ -5,7 +5,7 @@ The sign-up process involves four steps:
 1. Join Slack
 2. Create a project proposal
 3. Form a team
-4. Register the team and project
+4. Register the project
 
 ## Join the Slack workspace
 
@@ -24,7 +24,7 @@ You MUST use your work email address to sign-up. Only addresses ending in `@capg
 
 ## Create a project proposal
 
-We use [GitHub Issues](https://github.com/redhatgsiexchange/dev_competition/issues) to register project proposals and to collaborate on the refinement of the project specification. The issue MUST explain what your project is about, why it is relevant 
+We use [GitHub Issues](https://github.com/redhatgsiexchange/dev_competition/issues) to register project proposals and to collaborate on the refinement of the project description. The issue MUST explain what your project is about, why it is relevant 
 for customers, what technology will be used, etc. Other participants can then comment or offer their help.
 
 To start, create a [new issue](https://github.com/redhatgsiexchange/dev_competition/issues/new?template=project-proposal.md) for your project and provide the following information:
@@ -51,14 +51,17 @@ We use labels to indicate the state of a project proposal. The following labels 
 
 ## Form a team
 
-There is no formal process how to recruit team members. Reach out to collegues or ask for help in the Slack channel. Once you have your team assembled, update the `Team` section of your project proposal page with the GitHub use names of your team members.
+There is no formal process how to recruit team members. 
 
-## Register the team and project
+Reach out to collegues or ask for help in the Slack channel. Once you have your team assembled, update the `Team` section of your project proposal page with the GitHub user-names of your team members.
 
-If the project proposal is ready for a review, add the `ready` label to it. We will then review the proposal and ask for additional 
-information and clarification if needed. Once everything is fine, we will add the 'accepted` label and create a dedicated project description page. The issue will then be closed.
+## Register the project and its team
 
-### Changes to the project description after it has been accepted
+If the project proposal is ready for a review, add the `ready` label to it. 
+
+We review the proposal and ask for additional information if needed. Once everything is fine, we will add the `accepted` label, create a dedicated project description page and close the issue.
+
+##### Changes to the project description after it has been accepted
 
 1. Fork the repository
 2. Make changes to the project description page
