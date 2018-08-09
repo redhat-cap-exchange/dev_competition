@@ -66,9 +66,9 @@ If the project proposal is ready for a review, add the `ready` label to it.
 
 We review the proposal and ask for additional information if needed. Once everything is fine, we will add the `accepted` label, create a dedicated project description page and close the issue.
 
-#### Changes to the project description after it has been accepted
+### Changes to the project description after it has been accepted
 
 1. Fork the repository
-2. Make changes to the project description page
+2. Make changes to YOUR project description page
 3. Submit a pull request
 
