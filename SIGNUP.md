@@ -60,7 +60,7 @@ There is no formal process how to recruit team members.
 
 Reach out to collegues or ask for help on Slack. Once you have your team assembled, update the `Team` section of your project proposal "issue" with the GitHub user-names of your team members.
 
-## Register the project and its team
+## Register the project and your team
 
 If the project proposal is ready for a review, add the `ready` label to it. We then review the proposal and ask for additional information if needed. 
 

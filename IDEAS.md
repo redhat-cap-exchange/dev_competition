@@ -1,5 +1,5 @@
 # What are we looking for?
-Here is a collection of topics and ideas you can work on in the developer competition …
+Here is a collection of topics and ideas you could work on …
 
 #### Business Solutions and Go-to-Market Offerings
 Collaborate on prototyping a vertical business solution, e.g. something similar to [PSD/2](https://en.wikipedia.org/wiki/Payment_Services_Directive) and the [Open Bank Project](https://github.com/OpenBankProject). Or, develop a go-to-market offering with the goal to containerize a customer’s application landscape and streamline their application lifecycle.
